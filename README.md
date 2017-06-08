@@ -1,45 +1,7 @@
-Cloud Storage for Firebase Quickstart
+Projet Android Snap
 ==============================
 
-Introduction
-------------
 
-- [Read more about Cloud Storage for Firebase](https://firebase.google.com/docs/storage)
 
-Getting Started
----------------
-
-- [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
-The package name you'll use is `com.google.firebase.quickstart.firebasestorage`.
-- Run the Android application on your Android device or emulator. The app prompts you to
-sign in, so make sure to [enable anonymous authentication](https://console.firebase.google.com/project/_/authentication/providers)
-for your project.
-
-Screenshots
------------
-<img src="app/src/screen.png" height="534" width="300"/>
-
-Support
--------
-
-https://firebase.google.com/support/
-
-License
--------
-
-Copyright 2016 Google, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
+Sujet :
+------------Votre objectif est de réaliser une application mobile sur la plate-forme Android.Cette application doit permettre de partager des photos prises via un terminal mobile entre plusieurs utilisateurs (au minimum 2).Lorsqu’un utilisateur prend une photo via son terminal mobile, les autres utilisateurs reçoivent une notification.Votre application doit contenir au minimum les écrans suivants :- La liste des photos prises par tous les utilisateurs.- Le détail d’une photo : nom du fichier, taille, coordonnées GPS de la prise de photo,date de la prise de photo.Contraintes :- Vous devez réaliser ce projet en binôme.- Vous devez utiliser Firebase Cloud Messaging pour les notifications entre les utilisateurs et Firebase Cloud Storage pour le partage des fichiers.Liens utiles :- Firebase Cloud Messaging : https://firebase.google.com/docs/cloud-messaging/- Firebase Cloud Storage : https://firebase.google.com/docs/storage/- OkHttp (pour envoyer une notification) : http://square.github.io/okhttp/- Android Developers : https://developer.android.comContacts :- Michal TOMA : michaltoma2205@gmail.com- Hugo BUYSSOU : hugo@aaaaa-atelier.org- Cyril DUMONT : dumont_cyril@yahoo.fr
